@@ -9,13 +9,6 @@ Criar um dashboard de vendas no Excel, a partir de dados fornecidos, para auxili
 
 ---
 
-## 📁 Arquivos no Repositório
-
-- `base.xlsx`: arquivo com os dados brutos utilizados para construção do dashboard.
-- `dashboard_vendas.xlsx`: arquivo final com o dashboard pronto e interativo.
-- `dashboard_xbox_finalizado.xlsx`: exemplo de modelo visual sugerido.
-
----
 
 ## 📌 Funcionalidades do Dashboard
 
